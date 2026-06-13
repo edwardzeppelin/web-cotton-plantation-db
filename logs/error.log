@@ -1,0 +1,11 @@
+2026-04-06 08:33:49 [SECURITY] Possible SQL injection attempt: login=658756, email=dsedgrfhgj@sdegbfd
+2026-04-06 08:34:36 [SECURITY] Possible SQL injection attempt: login=658756, email=dsedgrfhgj@sdegbfd.com
+2026-04-06 08:34:59 [SECURITY] Possible SQL injection attempt: login=658756, email=dsedgrfhgj@sdegbfd.com
+2026-04-06 08:45:39 [TEST] Test error message
+2026-04-06 10:06:04 [SECURITY] Possible SQL injection attempt: login=idiot3, email=dsedgrfhgj@sdegbfd.com
+2026-04-06 10:06:31 [SECURITY] Possible SQL injection attempt: login=idiot3, email=dsedgrfhgj@sdegbfd.com
+2026-04-06 10:07:02 [DB_ERROR] Insert Error: SQLSTATE[22001]: String data, right truncated: 1406 Data too long for column 'phone' at row 1 | Table: clients
+2026-04-06 10:08:38 [USER] New user registered: login=idiot3, email=dsedgrfhgj@sdegbfd.com
+2026-04-06 10:23:50 [USER] New user registered: login=idiot5543, email=dsedgrfhsfggj@sdegbfd.com
+2026-04-07 15:32:19 [SECURITY] Possible SQL injection attempt: login=test2, email=abcdjjge777776@gmail.com
+2026-04-07 15:49:38 [TEST] Test error message
